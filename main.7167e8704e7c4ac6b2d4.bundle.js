@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[0],{0:function(e,t,n){n(456),n(598),n(1250),n(1251),e.exports=n(1253)},1:function(e,t){},1250:function(e,t,n){"use strict";n.r(t);var o=n(104),s=n(455);o.addons.setConfig({theme:Object(s.create)({base:"light",brandTitle:"Svelte Summernote",brandUrl:"https://svelte-summernote.easylogic.studio"})})}},[[0,1,2]]]);

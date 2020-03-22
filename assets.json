@@ -1,0 +1,7 @@
+{
+  "/index.js": "index.js",
+  "/vendors~index.css": "vendors~index.css",
+  "/vendors~index.js": "vendors~index.js",
+  "/./index.html": "./index.html",
+  "/fonts/summernote-lite.css": "fonts/summernote.woff2"
+}
